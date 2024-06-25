@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **OOP, DSA, C/C++, Python, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL**
+- 💬 Ask me about **OOP, DSA, C/C++, Python, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, OS, CN, DBMS, TOA, SDA**
 
 - 📫 How to reach me **khizrayaseen05@gmail.com**
 
