@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking to collaborate on **projects related to Development and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/khizraayaseen](https://github.com/khizraayaseen)
+<!--- 👨‍💻 All of my projects are available at [https://github.com/khizraayaseen](https://github.com/khizraayaseen)-->
 
-- 💬 Ask me about **OOP, DSA, Databases, C/C++ Programming, Python, HTML5, CSS3, JavaScript, React, SQL**
+- 💬 Ask me about **OOP, DSA, Databases, System Design, C/C++ Programming, Python, HTML5, CSS3, JavaScript, React, SQL**
 
-- 📫 How to reach me:  **khizrayaseen05@gmail.com**
+- 📫 Contact me:  **khizrayaseen05@gmail.com**
 
-- ⚡ Fun fact: **I love playing badminton and watching podcasts.**
+- ⚡ Fun fact: **During my leisure hours, I often watch Tech Podcasts or play Badminton **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
