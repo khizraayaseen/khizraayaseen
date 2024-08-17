@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khizraayaseen" alt="khizraayaseen" /></a> </p>
 
-- 🔭 I’m currently working on React
-
 <!-- - 🌱 I’m currently learning **React** -->
-
-- 🤝 I’m looking to collaborate on **projects related to Development and Machine Learning**
 
 <!--- 👨‍💻 All of my projects are available at [https://github.com/khizraayaseen](https://github.com/khizraayaseen)-->
 
 - 💬 Ask me about **OOP, DSA, Databases, System Design, C/C++ Programming, Python, HTML5, CSS3, JavaScript, React, SQL**
 
+- 🔭 I’m currently working on React
+
+- 🤝 I’m willing to collaborate on **Development and Machine Learning projects**
+ 
 - 📫 Contact me:  **khizrayaseen05@gmail.com**
 
-- ⚡ Fun fact: **During my leisure hours, I often watch Tech Podcasts or play Badminton **
+- ⚡ Fun fact: **During my leisure hours, I mostly watch Tech Podcasts or play Badminton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
