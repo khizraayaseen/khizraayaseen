@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **OOP, DSA, Databases, System Design, C/C++ Programming, Python, HTML5, CSS3, JavaScript, React, SQL**
 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on React and Supabase
 
 - 🤝 I’m willing to collaborate on **Development and Machine Learning projects**
  
