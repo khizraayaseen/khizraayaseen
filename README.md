@@ -9,11 +9,11 @@
 
 <!--- 👨‍💻 All of my projects are available at [https://github.com/khizraayaseen](https://github.com/khizraayaseen)-->
 
-- 💬 Ask me about **OOP, DSA, Databases, System Design, C/C++ Programming, Python, HTML5, CSS3, JavaScript, React, SQL**
+- 💬 Inquire me about **Reactjs, Nextjs, Supabase and SQL**
 
-- 🔭 I’m currently working on React and Supabase
+- 🔭 I’m currently learning Machine Learning, Deep Learning, NLP and COmputer Vision
 
-- 🤝 I’m willing to collaborate on **Development and Machine Learning projects**
+- 🤝 I’m willing to collaborate on **Development and AI/ML projects**
  
 - 📫 Contact me:  **khizrayaseen05@gmail.com**
 
