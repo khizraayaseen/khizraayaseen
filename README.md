@@ -9,9 +9,9 @@
 
 <!--- 👨‍💻 All of my projects are available at [https://github.com/khizraayaseen](https://github.com/khizraayaseen)-->
 
-- 💬 Inquire me about **Reactjs, Nextjs, Supabase and SQL**
+- 💬 Inquire me about **Reactjs, Nextjs, Supabase, SQL, C/C++, Python and Data Science (DSLC)**
 
-- 🔭 I’m currently learning Machine Learning, Deep Learning, NLP and COmputer Vision
+- 🔭 I’m currently learning **Machine Learning, Deep Learning, NLP and Computer Vision**
 
 - 🤝 I’m willing to collaborate on **Development and AI/ML projects**
  
